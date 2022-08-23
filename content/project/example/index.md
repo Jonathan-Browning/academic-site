@@ -1,8 +1,8 @@
 ---
 title: Towards Evidence Based Teaching of Entrepreneurship to Computer Science Students.
 summary: Funded by the ACM SIGCSE Special Project Grant.
- tags:
-  - Data analysis
+# tags:
+#  - Data analysis
 # date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
