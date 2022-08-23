@@ -30,7 +30,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: 2019 22nd International Symposium on Wireless Personal Multimedia Communications (WPMC)
-publication_short: In 22nd WPMC.
+# publication_short: In 22nd WPMC.
 
 abstract: In this paper, we provide an alternative characterization for format 1 of the recently proposed double shadowed Rician fading model. Unlike the original definition, both the dominant component and the rms signal are impacted by Nakagami-m processes. For this exposition, we derive analytical expressions for the envelope probability density function (PDF), the moments, the moment generating function, and the joint envelope-phase PDF. In addition, with the aid of the joint envelope-phase PDF, we investigate the phase properties of this interpretation of the double shadowed Rician fading model, while using the moments, we provide an analysis of the corresponding amount of fading.
 # Summary. An optional shortened abstract.
