@@ -29,8 +29,8 @@ feature:
     icon_pack: fab
     name: Statistics
   - description: 40%
-    icon: camera-retro
-    icon_pack: fas
+    icon: chalkboard
+    icon_pack: fab
     name: Teaching
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
