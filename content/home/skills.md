@@ -21,7 +21,7 @@ feature:
     icon_pack: fab
     name: Python
   - description: 10%
-    icon: calculator
+    icon: equals
     icon_pack: fab
     name: Statistics
   - description: 50%
