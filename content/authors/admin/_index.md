@@ -70,4 +70,4 @@ email: 'j.browning@qub.ac.uk'
 highlight_name: true
 ---
 
-Jonathan Browning is a connected learning tutor in the school of Electrical Computer Science (EEECS) at Queen's University Belfast. His research interests include wireless channel modelling, applying data analysis to entrepeurship, and computer science pedagogy.
+Jonathan Browning is a connected learning tutor in the school of Electronics, Electrical Engineering and Computer Science (EEECS) at Queen's University Belfast (QUB). His research interests include wireless channel modelling, applying data analysis to entrepeurship, and computer science pedagogy.
