@@ -43,15 +43,19 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&tzom=-60&user=zBZwzLkAAAAJ
+  - icon: ai
+    icon_pack: orcid
+    link: https://orcid.org/0000-0003-2811-8003
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Jonathan-Browning
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jonathan-browning-graduate/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
