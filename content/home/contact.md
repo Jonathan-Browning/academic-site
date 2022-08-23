@@ -29,8 +29,7 @@ content:
   address:
     street: 18 Malone Road
     city: Belfast
-    region: Antrim
-    postcode: 'BT9 5AF'
+    postcode: BT9 5AF
     country: United Kingdom
     country_code: UK
   coordinates:
