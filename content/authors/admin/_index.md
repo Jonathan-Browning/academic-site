@@ -47,8 +47,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&tzom=-60&user=zBZwzLkAAAAJ
-  - icon: ai
-    icon_pack: orcid
+  - icon: orcid
+    icon_pack: ai
     link: https://orcid.org/0000-0003-2811-8003
   - icon: github
     icon_pack: fab
