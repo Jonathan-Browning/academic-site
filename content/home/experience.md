@@ -25,7 +25,7 @@ experience:
   - title: Connected Learning Tutor
     company: Queen's University Belfast
     company_url: 'https://www.qub.ac.uk/'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Belfast
     date_start: '2021-05-10'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Software Development Intern
     company: Proofpoint
     company_url: 'https://www.proofpoint.com/uk'
-    company_logo: proofpoint-logo.svg
+    # company_logo: proofpoint-logo.svg
     location: Belfast
     date_start: '2016-06-01'
     date_end: '2016-08-31'
@@ -47,7 +47,7 @@ experience:
   - title: Intern
     company: SAP
     company_url: 'https://www.sap.com/uk/index.html'
-    company_logo: SAP_logo.svg
+    # company_logo: SAP_logo.svg
     location: Belfast
     date_start: '2014-07-01'
     date_end: '2015-08-31'
