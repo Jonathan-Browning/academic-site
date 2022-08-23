@@ -43,7 +43,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&tzom=-60&user=zBZwzLkAAAAJ
@@ -73,4 +72,4 @@ highlight_name: true
 
 Jonathan Browning is a connected learning tutor in the school of Electrical Computer Science (EEECS) at Queen's University Belfast. His research interests include wireless channel modelling, applying data analysis to entrepeurship, and computer science pedagogy.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
