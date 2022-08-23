@@ -22,28 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Connected Learning Tutor
+    company: Queen's University Belfast
+    company_url: 'https://www.qub.ac.uk/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Belfast
+    date_start: '2021-05-10'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Supporting lecturers and students in computing modules
+        * Outreach 
+        * School administration
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Software Development Intern
+    company: Proofpoint
+    company_url: 'https://www.proofpoint.com/uk'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Belfast
+    date_start: '2016-06-01'
+    date_end: '2016-08-31'
+    description: Summer internship working on archiving within the essentials product.
+    
+  - title: Intern
+    company: SAP
+    company_url: 'https://www.sap.com/uk/index.html'
+    company_logo: org-x
+    location: Belfast
+    date_start: '2014-07-01'
+    date_end: '2015-08-31'
+    description: Worked in a research role as part of a research team, that was focused on heterogenous computing technology for the cloud, as part of an ongoing EU project with other companies.
 
 design:
   columns: '2'
