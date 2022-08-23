@@ -38,7 +38,7 @@ experience:
   - title: Software Development Intern
     company: Proofpoint
     company_url: 'https://www.proofpoint.com/uk'
-    company_logo: org-x
+    company_logo: proofpoint-logo
     location: Belfast
     date_start: '2016-06-01'
     date_end: '2016-08-31'
@@ -47,7 +47,7 @@ experience:
   - title: Intern
     company: SAP
     company_url: 'https://www.sap.com/uk/index.html'
-    company_logo: org-x
+    company_logo: SAP_logo
     location: Belfast
     date_start: '2014-07-01'
     date_end: '2015-08-31'
