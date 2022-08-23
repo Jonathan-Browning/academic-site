@@ -42,7 +42,7 @@ header:
 # Site footer
 
 footer:
-  copyright: '© {year} Me. This work is licensed under {license}'
+  copyright: '© Me. This work is licensed under'
     notice: ''
     license:
       enable: true
