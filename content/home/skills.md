@@ -16,21 +16,17 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 10%
-    icon: calculator
-    icon_pack: fab
-    name: Matlab
   - description: 40%
     icon: python
     icon_pack: fab
     name: Python
   - description: 10%
     icon: function
-    icon_pack: fab
+    icon_pack: fas
     name: Statistics
-  - description: 40%
+  - description: 50%
     icon: chalkboard
-    icon_pack: fab
+    icon_pack: fas
     name: Teaching
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
