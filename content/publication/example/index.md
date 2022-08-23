@@ -8,7 +8,7 @@ authors:
   - admin
   - Simon L. Cotton
   - David Morales-Jimenez
-  - H. Javier Lopez-Martinez
+  - F. Javier Lopez-Martinez
 
 # Author notes (optional)
 # author_notes:
