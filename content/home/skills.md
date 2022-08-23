@@ -22,7 +22,7 @@ feature:
     name: Python
   - description: 10%
     icon: function
-    icon_pack: fas
+    icon_pack: fab
     name: Statistics
   - description: 50%
     icon: chalkboard
